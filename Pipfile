@@ -12,6 +12,7 @@ plotly-express = "*"
 nbformat = "*"
 plotly = "*"
 ipykernel = "*"
+jupyterlab-latex = "*"
 
 [dev-packages]
 ipykernel = "*"
